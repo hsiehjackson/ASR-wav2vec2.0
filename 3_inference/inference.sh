@@ -1,0 +1,2 @@
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/
+python 3_inference/src/main.py --sample_dir=3_inference/sample --w2v_path=3_inference/models/wav2vec.pt --dict_path=3_inference/models/dict.ltr.txt --vad_path=3_inference/models/vad.pt

@@ -1,0 +1,9 @@
+package/
+.DS_Store
+.python-version
+.ipynb_checkpoints
+*.h5
+*.bin
+*.pyc
+*.pt
+

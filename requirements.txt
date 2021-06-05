@@ -1,0 +1,9 @@
+webrtcvad==2.0.10
+cn2an==0.5.11
+emoji==1.2.0
+soundfile==0.10.3.post1
+pandas==1.1.5
+xlrd==1.2.0
+librosa==0.8.0
+editdistance==0.5.3
+mkl-include==2021.2.0

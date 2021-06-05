@@ -1,0 +1,9 @@
+/Users/jacksonhsieh/Desktop/ASR-wav2vec2.0/1_dataset/finetune/raw_dataset/Youtube/wav/UCyh91eTE9jA3ykg8W3_v3DQ/GcpByZWWBXk/UCyh91eTE9jA3ykg8W3_v3DQ-GcpByZWWBXk-0000.wav	我們各位好朋友們大家午安|謝謝大家參加
+/Users/jacksonhsieh/Desktop/ASR-wav2vec2.0/1_dataset/finetune/raw_dataset/Youtube/wav/UCyh91eTE9jA3ykg8W3_v3DQ/GcpByZWWBXk/UCyh91eTE9jA3ykg8W3_v3DQ-GcpByZWWBXk-0001.wav	今天的記者會|那今天記者會還是由
+/Users/jacksonhsieh/Desktop/ASR-wav2vec2.0/1_dataset/finetune/raw_dataset/Youtube/wav/UCyh91eTE9jA3ykg8W3_v3DQ/GcpByZWWBXk/UCyh91eTE9jA3ykg8W3_v3DQ-GcpByZWWBXk-0002.wav	陳指揮官來親自主持|我們的副指揮官及專家
+/Users/jacksonhsieh/Desktop/ASR-wav2vec2.0/1_dataset/finetune/raw_dataset/Youtube/wav/UCyh91eTE9jA3ykg8W3_v3DQ/GcpByZWWBXk/UCyh91eTE9jA3ykg8W3_v3DQ-GcpByZWWBXk-0003.wav	諮詢小組的張召集人
+/Users/jacksonhsieh/Desktop/ASR-wav2vec2.0/1_dataset/finetune/raw_dataset/Youtube/wav/UCyh91eTE9jA3ykg8W3_v3DQ/GcpByZWWBXk/UCyh91eTE9jA3ykg8W3_v3DQ-GcpByZWWBXk-0004.wav	也在會場上
+/Users/jacksonhsieh/Desktop/ASR-wav2vec2.0/1_dataset/finetune/raw_dataset/Youtube/wav/UCyh91eTE9jA3ykg8W3_v3DQ/GcpByZWWBXk/UCyh91eTE9jA3ykg8W3_v3DQ-GcpByZWWBXk-0005.wav	此外呢|我們今天出席的
+/Users/jacksonhsieh/Desktop/ASR-wav2vec2.0/1_dataset/finetune/raw_dataset/Youtube/wav/UCyh91eTE9jA3ykg8W3_v3DQ/GcpByZWWBXk/UCyh91eTE9jA3ykg8W3_v3DQ-GcpByZWWBXk-0007.wav	側的
+/Users/jacksonhsieh/Desktop/ASR-wav2vec2.0/1_dataset/finetune/raw_dataset/Youtube/wav/UCyh91eTE9jA3ykg8W3_v3DQ/GcpByZWWBXk/UCyh91eTE9jA3ykg8W3_v3DQ-GcpByZWWBXk-0008.wav	是我們教育部潘部長
+/Users/jacksonhsieh/Desktop/ASR-wav2vec2.0/1_dataset/finetune/raw_dataset/Youtube/wav/UCyh91eTE9jA3ykg8W3_v3DQ/GcpByZWWBXk/UCyh91eTE9jA3ykg8W3_v3DQ-GcpByZWWBXk-0006.wav	人員還有|在各位最右手側|前排最右手

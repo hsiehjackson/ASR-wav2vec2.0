@@ -1,0 +1,1 @@
+python 1_dataset/pretrain/manifest.py --root=1_dataset/pretrain/raw_dataset/Podcast/wav/ --dest=1_dataset/pretrain/training_dataset
